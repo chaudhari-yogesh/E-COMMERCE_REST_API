@@ -1,0 +1,2 @@
+drf-yasg == 1.21.7
+djangorestframework == 3.14.0
